@@ -2,8 +2,8 @@ Autor: Erik Partila
 Nazov: V stanku prestali predavat kusovky !!!
 Datum: 2.6.2020
 ----
-toto
-je
+najlepsi
+gitovaci
 uvod
 ----
 je
