@@ -10,6 +10,6 @@ je
 to
 divne
 ----
-ano
-mam
-rad ucenie :D
+Toto
+je
+zaver
